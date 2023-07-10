@@ -778,8 +778,7 @@
             "State": "Assam",
             "GSTNum": "1234567",
             "isLogged": false,
-            "id": 1,
-            "cart": []
+            "id": 1
         },
         {
             "Fname": "Sharon",
@@ -794,8 +793,7 @@
             "State": "Punjab",
             "GSTNum": "dvgsx",
             "isLogged": false,
-            "id": 2,
-            "cart": []
+            "id": 2
         },
         {
             "Fname": "rsg",
@@ -810,8 +808,7 @@
             "State": "Odisha",
             "GSTNum": "f",
             "isLogged": false,
-            "id": 3,
-            "cart": []
+            "id": 3
         },
         {
             "Fname": "Sharon",
